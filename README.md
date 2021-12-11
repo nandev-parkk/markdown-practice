@@ -64,7 +64,7 @@ _이탤릭_
 
 [NAVER](https://naver.com "NAVER로 이동")
 
-<!-- markdown에는 target 속성이 없기 때문에 아래와 같이 a tag로 작성하거나 원시 html을 이용해야한다. -->
+<!-- markdown에는 target 속성이 없기 때문에 아래와 같이 a tag로 작성하는 원시 html을 이용해야한다. -->
 
 <a href="https://naver.com" title="NAVER로 이동" target="_blank">NAVER</a>
 
